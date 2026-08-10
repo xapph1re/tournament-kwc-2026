@@ -1,5 +1,5 @@
 # tournament-kwc-2026
-Tournament MLBB MSC 2026 Data Analysis using Excel & Power BI
+Tournament KWC 2026 Data Analysis using Excel & Power BI
 # 🏆 Honor Of Kings World Cup 2026
 
 [![Esports World Cup 2026](https://img.shields.io/badge/EWC-2026-gold?style=for-the-badge&logo=trophy)](https://esportsworldcup.com/)
