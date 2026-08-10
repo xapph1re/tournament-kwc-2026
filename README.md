@@ -28,21 +28,21 @@ Visualisasi *Total Presence Hero*, *Best Side*, serta *Total Hero, Total Games &
 
 ## 🔥 Key Insights (Temuan Utama)
 1. **Hero META**
-    Total Hero yang bisa dipakai dalam versi Turnamen KWC ini ada 111 Hero dan Total Hero yang muncul pada Turnamen KWC ada 75 Hero jadi ada 36 Hero yang tidak muncul pada Turnamen KWC 2026. Hero yang tidak muncul ini bisa dibilang memiliki power yang lebih rendah dari 75 Hero yang muncul sehingga tidak *worth it* untuk dipick dikarenakan Turnamen KWC 2026 ini menggunakan sistem *Global Ban Pick* yang dimana Hero yang sudah dipick pada match sebelumnya tidak bisa dipick lagi oleh tim yang sama tapi tetap bisa dipick oleh tim yang berbeda.
+    - Total Hero yang bisa dipakai dalam versi Turnamen KWC ini ada 111 Hero dan Total Hero yang muncul pada Turnamen KWC ada 75 Hero jadi ada 36 Hero yang tidak muncul pada Turnamen KWC 2026. Hero yang tidak muncul ini bisa dibilang memiliki power yang lebih rendah dari 75 Hero yang muncul sehingga tidak *worth it* untuk dipick dikarenakan Turnamen KWC 2026 ini menggunakan sistem *Global Ban Pick* yang dimana Hero yang sudah dipick pada match sebelumnya tidak bisa dipick lagi oleh tim yang sama tapi tetap bisa dipick oleh tim yang berbeda.
 
 2. **Match Duration**
-    Rata-rata durasi pertandingan di Turnamen KWC 2026 ini adalah 14:51 bisa dibilang itu masih fase *Midgame*, tim - tim KWC cenderung kontes *Shadow Objective* ketika sudah memasuki menit 10 sehingga yang memenangkan kontes tersebut bisa memegang pertandingan dan mengakhiri game tersebut sebelum memasuki fase *Lategame*
+    - Rata-rata durasi pertandingan di Turnamen KWC 2026 ini adalah 14:51 bisa dibilang itu masih fase *Midgame*, tim - tim KWC cenderung kontes *Shadow Objective* ketika sudah memasuki menit 10 sehingga yang memenangkan kontes tersebut bisa memegang pertandingan dan mengakhiri game tersebut sebelum memasuki fase *Lategame*
 
 3. **Top 5 Hero**
-   **Pei**
+    - **Pei**
        Hero Jungler yang punya mobilitas tinggi dan *fast farming* memudahkannya untuk *snowballing*.
-   **Ao Yin**
+    - **Ao Yin**
        Hero Marksman yang punya burst damage di *earlygame* hingga *lategame* dan *escape tools*.
-   **Lorion**
+    - **Lorion**
        Hero Mage AOV ini punya skill *blink* membuatnya susah untuk ditangkap serta *ultimate*nya mempunyai *Crowd Control area* yang cocok untuk *teamfight*.
-   **Haya**
+    - **Haya**
        Hero Midlane ini memiliki skill area dengan dmg tinggi di *earlygame* membuatnya mudah untuk *clear minion* & rotasi serta skill *ultimate* miliknya bisa menculik 1 hero musuh untuk diajak 1on1.
-   **Zhang Fei**
+    - **Zhang Fei**
        Hero Roamer yang sangat tebal dan punya skill *blink* membuatnya sangat mudah untuk *Open Map* serta skill *ultimate Crowd Control area* yang sangat bagus untuk kontes *Objective*.
 
 5. **Best Side**
