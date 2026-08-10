@@ -46,7 +46,7 @@ Visualisasi *Total Presence Hero*, *Best Side*, serta *Total Hero, Total Games &
        Hero Roamer yang sangat tebal dan punya skill *blink* membuatnya sangat mudah untuk *Open Map* serta skill *ultimate Crowd Control area* yang sangat bagus untuk kontes *Objective*.
 
 5. **Best Side**
-   *Win Rate* **Red Side(Second Pick)** lebih tinggi dibandingkan **Blue Side(First Pick)** di KWC 2026. Honor Of Kings bisa dibilang memiliki balancing hero yang bagus, sehingga mengamankan *First Pick* tidak memberikan keuntungan mutlak (kecuali mengamankan hero *priority* seperti Pei atau Haya). Sebaliknya, *Second Pick* memberikan keunggulan fleksibilitas **Counter-Pick** pada fase draft terakhir.
+    - *Win Rate* **Red Side(Second Pick)** lebih tinggi dibandingkan **Blue Side(First Pick)** di KWC 2026. Honor Of Kings bisa dibilang memiliki balancing hero yang bagus, sehingga mengamankan *First Pick* tidak memberikan keuntungan mutlak (kecuali mengamankan hero *priority* seperti Pei atau Haya). Sebaliknya, *Second Pick* memberikan keunggulan fleksibilitas **Counter-Pick** pada fase draft terakhir.
 
 ---
 
@@ -126,7 +126,7 @@ Dataset `KWC 2026 Fix.csv` mencakup **27 kolom utama** per baris pemain:
 
 1. **Clone Repository ini:**
    ```bash
-   git clone https://github.com/xapph1re/MLBB-MSC-2026.git
+   git clone https://github.com/xapph1re/tournament-kwc-2026.git
    ```
 2. **Eksplorasi Data Mentah:** Buka file `KWC 2026 Fix.csv` menggunakan Excel, Python (Pandas), atau impor ke Database SQL.
 3. **Buka Dashboard Power BI:** Buka file `KWC 2026.pbix` menggunakan **Power BI Desktop** untuk melihat interaksi visualisasi, model DAX, dan grafik.
