@@ -66,7 +66,7 @@ Visualisasi *Total Presence Hero*, *Best Side*, serta *Total Hero, Total Games &
 [ Interactive Visual Dashboard & Documentation ]
 ```
 
-- **Data Collection:** Liquipedia Web Scraping & YouTube Tournament Review
+- **Data Collection:** Liquipedia & YouTube Tournament Review
 - **Data Storage:** Flat CSV (`KWC 2026 Fix`)
 - **Data Visualization & Modeling:** Microsoft Power BI (`KWC 2026.pbix`)
 - **Version Control & Portfolio:** GitHub
